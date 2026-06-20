@@ -54,7 +54,7 @@ Some companies raised significant funding but still shut down completely — not
 - Layoffs were heavily concentrated in certain years, pointing to broader economic and industry-wide pressure across the tech sector during this period.
 - A relatively small set of companies and industries accounted for a disproportionate share of total layoffs each year.
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
